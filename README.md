@@ -1,4 +1,5 @@
 # HRAnalytics
+<<<<<<< HEAD
 Indicative Data Analysis Project for the HR Function of a company.
 
 the project constists of 2 notebooks:
@@ -19,3 +20,8 @@ Since both notebook contain interactive visualizations please try to render them
  
  **Note : All analysis and reports are based on mock data.
  
+=======
+Indicative Data Analysis Project that for the HR Function of a company
+
+Since the both notebook contain interactive visualizations please try to render them on nbviewer
+>>>>>>> 396995d74f05be0266ab0acce088108ccf642c6c
