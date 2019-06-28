@@ -4,9 +4,10 @@ Indicative Data Analysis Project for the HR Function of a company.
 
 the project constists of 2 notebooks:
 
- 1. [Dataset Overview_EDA ](DatasetOverview_EDA.ipynb) which contains the initial analysis of the mock data set used
+ 1. [Dataset Overview_EDA ](http://nbviewer.ipython.org/github/CPsarropoulos/HRAnalytics/blob/4c18e9277257ef4613ad0cb05ee8de5b63b18e27/HRAnalytics.ipynb)
+ which contains the initial analysis of the mock data set used
 
- 2.[HRAnalytics](HRAnalytics.ipynb) which contains visualizations on the dataset, a K-means clustering example and a Logistic  
+ 2. [HRAnalytics](https://nbviewer.jupyter.org/github/CPsarropoulos/HRAnalytics/blob/4c18e9277257ef4613ad0cb05ee8de5b63b18e27/DatasetOverview_EDA.ipynb) which contains visualizations on the dataset, a K-means clustering example and a Logistic  
    regression example 
 
 Since both notebook contain interactive visualizations please try to render them on nbviewer in order to get the maximum output.
@@ -19,6 +20,6 @@ Since both notebook contain interactive visualizations please try to render them
  5. seaborn
  6. Sklearn (kmeans and logistic regression
  
- **Note : All analysis and reports are based on mock data.
+ **Note** : All analysis and reports are based on mock data.
  
 
