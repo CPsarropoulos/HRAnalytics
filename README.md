@@ -10,7 +10,9 @@ the project constists of 2 notebooks:
  2. [HRAnalytics](HRAnalytics.ipynb) which contains visualizations on the dataset, a K-means clustering example and a Logistic  
    regression example 
 
-Since both notebook contain interactive visualizations please try to render them on nbviewer in order to get the maximum output.
+Since both notebook contain interactive visualizations please try to render them on nbviewer in order to get the maximum output. The way to do this is to click on the "-" sign and the click "external view available with nbviewer"
+
+![ScreenShot](https://github.com/CPsarropoulos/HRAnalytics/blob/master/Screenshot.png`)
 
 ##### Indicative packages used:
  1. pandas
@@ -22,4 +24,5 @@ Since both notebook contain interactive visualizations please try to render them
  
  **Note** : All analysis and reports are based on mock data.
  
+
 
