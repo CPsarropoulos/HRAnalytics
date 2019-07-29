@@ -12,7 +12,7 @@ the project constists of 2 notebooks:
 
 Since both notebook contain interactive visualizations please try to render them on nbviewer in order to get the maximum output. The way to do this is to click on the "-" sign and the click "external view available with nbviewer"
 
-![ScreenShot](Screenshot.jpg)
+![ScreenShot](https://raw.githubusercontent.com/CPsarropoulos/HRAnalytics/master/Screenshot.png)
 
 ##### Indicative packages used:
  1. pandas
